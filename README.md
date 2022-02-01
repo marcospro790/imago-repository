@@ -35,3 +35,9 @@ mas com certos itens da pra sobreviver.
 amazonia
      
 passar pelas florestas mas toma cuidado porque la existe caçadores com abilidades     
+     
+---
+     
+abilidades 
+     
+combinaçoes mas para adquirilas precisa ter a abilidade     
