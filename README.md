@@ -1,4 +1,4 @@
-=the adventures of an elephant bob
+the adventures of an elephant bob
 
 ---
 
