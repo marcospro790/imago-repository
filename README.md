@@ -3,6 +3,10 @@
 ---
 
 Estilos: Aventura, 2d
+     
+um jogo sobre passar de fases para o desafio final,
+voce pode ganhar abilidades secretas no jogo e equipamentoa
+e cada bioma tem mini chefe.
 
 ---
 
@@ -21,5 +25,13 @@ Final: depois de passar nessa aventura ele ganha o dinheiro e a luta mas terá q
 
 ---
 
-biomas da fases: deserto,amazonia,e etc
-
+biomas da fases:
+    
+deserto
+     
+voce deve passar pelas areias cuidado pois você pode cair e areias amadilhas e movedisa 
+mas com certos itens da pra sobreviver.
+     
+amazonia
+     
+passar pelas florestas mas toma cuidado porque la existe caçadores com abilidades     
