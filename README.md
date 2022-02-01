@@ -29,7 +29,7 @@ biomas da fases:
     
 deserto
      
-voce deve passar pelas areias cuidado pois você pode cair e areias amadilhas e movedisa 
+voce deve passar pelas areias mas cuidado pois você pode cair e areias amadilhas e movedisa 
 mas com certos itens da pra sobreviver.
      
 amazonia
