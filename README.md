@@ -1,4 +1,4 @@
-<the adventures of an elephant bob
+the adventures of an elephant bob
 
 ---
 
@@ -41,3 +41,15 @@ passar pelas florestas mas toma cuidado porque la existe caçadores com abilidad
 abilidades 
      
 combinaçoes mas para adquirilas precisa ter a abilidade     
+
+soco fogo 
+
+ao pressionar o click 2x vezes voc~e solta u soco flamejante
+
+chute
+
+essa abilidade é como o soco mais é mais agil e da mais dano por perto
+
+double jump
+
+classico nos jogos mais como ele é um elefante é ótimo ter essa abilidade
