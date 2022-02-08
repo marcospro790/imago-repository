@@ -1,8 +1,8 @@
-the adventures of an elephant bob
+THE ADVENTURES OF AN ELEPHANT BOB
 
 ---
 
-Estilos: Aventura, 2d
+ESTILO: Aventura, 2d
      
 um jogo sobre passar de fases para o desafio final,
 voce pode ganhar abilidades secretas no jogo e equipamentoa
@@ -10,11 +10,11 @@ e cada bioma tem mini chefe.
 
 ---
 
-Personagens: bob
+PERSONAGENS: bob
 
 ---
 
-Inimigos: zebras, caçadores, tigres etc.
+INIMIGOS: zebras, caçadores, tigres etc.
 
 ---
 
@@ -25,7 +25,7 @@ Final: depois de passar nessa aventura ele ganha o dinheiro e a luta mas terá q
 
 ---
 
-biomas da fases:
+BIOMAS DE FASES:
     
 deserto
      
@@ -38,7 +38,7 @@ passar pelas florestas mas toma cuidado porque la existe caçadores com abilidad
      
 ---
      
-abilidades 
+ABILIDADES: 
      
 combinaçoes mas para adquirilas precisa ter a abilidade     
 
