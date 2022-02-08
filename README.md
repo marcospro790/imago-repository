@@ -34,8 +34,15 @@ mas com certos itens da pra sobreviver.
      
 amazonia
      
-passar pelas florestas mas toma cuidado porque la existe caçadores com abilidades     
+passar pelas florestas mas toma cuidado porque la existe caçadores com abilidades    
+
+pantano
+
+uma area onde pode achar um itens como poçao e etc
+
+mansao
      
+cuidado se fizer movimento brusco despenca a mansao
 ---
      
 ABILIDADES: 
@@ -44,7 +51,7 @@ combinaçoes mas para adquirilas precisa ter a abilidade
 
 soco fogo 
 
-ao pressionar o click 2x vezes voc~e solta u soco flamejante
+ao pressionar o click 2x vezes voce solta u soco flamejante
 
 chute
 
@@ -53,3 +60,8 @@ essa abilidade é como o soco mais é mais agil e da mais dano por perto
 double jump
 
 classico nos jogos mais como ele é um elefante é ótimo ter essa abilidade
+
+agua na tromba
+
+ao clicar um botao ele solta a agua pele tromba
+
