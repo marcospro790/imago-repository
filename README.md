@@ -43,6 +43,8 @@ uma area onde pode achar um itens como poçao e etc
 mansao
      
 cuidado se fizer movimento brusco despenca a mansao
+
+
 ---
      
 ABILIDADES: 
